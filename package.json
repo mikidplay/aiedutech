@@ -1,0 +1,14 @@
+{
+  "name": "aiedutech-news",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
