@@ -3,49 +3,123 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI EduTech — 뉴스 모아보기</title>
+  <title>AI EduTech — 국내/해외 뉴스 모아보기</title>
   <meta name="description" content="AI EduTech: 국내/해외 에듀테크 뉴스 큐레이션" />
+  <!-- (다음 단계에서 AdSense를 활성화할 때 여기에 스크립트를 넣습니다) -->
+
   <style>
     :root{--bg:#f6f7f9;--bd:#e5e7eb;--txt:#111827;--muted:#6b7280}
-    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--txt)}
-    header{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--bd);padding:14px 16px}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--txt)}
+    header{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--bd);padding:12px 16px;z-index:10}
     h1{margin:0;font-size:18px}
-    main{max-width:880px;margin:20px auto;padding:0 16px}
-    .card{background:#fff;border:1px solid var(--bd);border-radius:12px;padding:16px}
-    .muted{color:var(--muted);font-size:14px}
-    a{color:var(--txt)}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:8px}
+    .links{display:flex;gap:8px;flex-wrap:wrap}
+    .badge{font-size:11px;border:1px solid var(--bd);border-radius:999px;padding:6px 10px;background:#fff;color:var(--txt);text-decoration:none}
+    .tabs{display:flex;gap:8px;margin-top:8px}
+    .tab{padding:6px 10px;border:1px solid var(--bd);border-radius:999px;background:#fff;cursor:pointer}
+    .tab.active{background:#111827;color:#fff;border-color:#111827}
+    main{max-width:960px;margin:16px auto;padding:0 16px}
+    .grid{display:grid;grid-template-columns:repeat(1,minmax(0,1fr));gap:12px}
+    @media(min-width:720px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    article{background:#fff;border:1px solid var(--bd);border-radius:12px;padding:14px}
+    article h3{margin:0 0 8px;font-size:16px;line-height:1.35}
+    article a{color:var(--txt);text-decoration:none}
+    article a:hover{text-decoration:underline}
+    .meta{font-size:12px;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap}
     footer{padding:40px 16px;color:var(--muted);text-align:center}
-    .links{display:flex;gap:12px;flex-wrap:wrap;margin-top:10px}
-    .pill{display:inline-block;border:1px solid var(--bd);border-radius:999px;padding:6px 10px;background:#fff}
+    #updated{color:var(--muted)}
+    .toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:12px 0}
+    input[type="search"]{padding:8px 10px;border:1px solid var(--bd);border-radius:8px;min-width:220px}
   </style>
 </head>
 <body>
   <header>
-    <h1>AI EduTech — 연결 테스트</h1>
+    <div class="topbar">
+      <h1>AI EduTech — 국내/해외 뉴스 모아보기</h1>
+      <div class="links">
+        <a class="badge" href="/privacy.html">개인정보처리방침</a>
+        <a class="badge" href="/ads.txt">ads.txt</a>
+      </div>
+    </div>
+    <div class="tabs">
+      <button class="tab active" data-filter="all">전체</button>
+      <button class="tab" data-filter="domestic">국내</button>
+      <button class="tab" data-filter="overseas">해외</button>
+    </div>
   </header>
 
   <main>
-    <div class="card">
-      <p>이 페이지가 보이면 <strong>GitHub Pages + 도메인 연결</strong>이 정상입니다.</p>
-      <ul class="muted">
-        <li>레포: <code>mikidplay/aiedutech</code></li>
-        <li>배포 폴더: <code>/docs</code> (이 파일이 <code>docs/index.html</code>에 있을 때)</li>
-        <li>도메인: <code>aiedutech.co.kr</code></li>
-      </ul>
-
-      <div class="links">
-        <a class="pill" href="/">홈 새로고침</a>
-        <a class="pill" href="https://geometry.com" target="_blank" rel="noopener">geometry.com</a>
-        <a class="pill" href="/privacy.html">개인정보처리방침(예정)</a>
-        <a class="pill" href="/ads.txt">ads.txt</a>
-      </div>
+    <div class="toolbar">
+      <div id="updated">업데이트 시각을 불러오는 중…</div>
+      <input id="q" type="search" placeholder="제목 검색 (예: AI, 에듀테크)">
+      <button class="tab" id="refresh">새로고침</button>
     </div>
-
-    <p style="margin-top:16px" class="muted">
-      다음 단계에서 국내/해외 뉴스 카드 UI와 자동 수집(JSON)도 붙일 수 있어요.
-    </p>
+    <section class="grid" id="list"></section>
   </main>
 
-  <footer>© <script>document.write(new Date().getFullYear())</script> AI EduTech</footer>
+  <footer>© <script>document.write(new Date().getFullYear())</script> AI EduTech. 원문 저작권은 각 퍼블리셔에 있습니다.</footer>
+
+  <script>
+    const elList = document.getElementById('list');
+    const elTabs = document.querySelectorAll('.tab[data-filter]');
+    const elUpdated = document.getElementById('updated');
+    const elQ = document.getElementById('q');
+    const elRefresh = document.getElementById('refresh');
+
+    let all = [];
+    let currentFilter = 'all';
+
+    async function load() {
+      try {
+        const res = await fetch('./data/news.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const json = await res.json();
+        all = json.items || [];
+        elUpdated.textContent = `업데이트: ${new Date(json.generatedAt).toLocaleString()}`;
+        render();
+      } catch (e) {
+        elUpdated.textContent = '데이터를 불러오지 못했습니다. (Actions에서 Update news를 실행해 보세요)';
+        elList.innerHTML = '';
+      }
+    }
+
+    function render() {
+      const q = elQ.value.trim().toLowerCase();
+      let items = currentFilter === 'all' ? all : all.filter(x => x.group === currentFilter);
+      if (q) items = items.filter(x => (x.title || '').toLowerCase().includes(q));
+      elList.innerHTML = items.slice(0, 40).map(card).join('');
+    }
+
+    function card(x) {
+      const dt = x.publishedAt ? new Date(x.publishedAt).toLocaleString() : '';
+      const host = (() => { try { return new URL(x.link).host.replace(/^www\./,''); } catch { return ''; }})();
+      const groupLabel = x.group === 'domestic' ? '국내' : '해외';
+      return `
+        <article>
+          <h3><a href="${x.link}" target="_blank" rel="noopener">${escapeHtml(x.title)}</a></h3>
+          <div class="meta">
+            <span>${groupLabel}</span>·
+            <span>${dt}</span>·
+            <span>${escapeHtml(x.source)}${host?` / ${host}`:''}</span>
+          </div>
+        </article>
+      `;
+    }
+
+    function escapeHtml(s){return (s||'').replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
+
+    // 이벤트들
+    elTabs.forEach(b => b.addEventListener('click', () => {
+      currentFilter = b.dataset.filter;
+      elTabs.forEach(x => x.classList.toggle('active', x === b));
+      render();
+    }));
+    elQ.addEventListener('input', render);
+    elRefresh.addEventListener('click', load);
+
+    // 최초 로드
+    load();
+  </script>
 </body>
 </html>
