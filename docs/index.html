@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI EduTech — 국내/해외 뉴스 모아보기</title>
-  <meta name="description" content="AI EduTech: 국내/해외 에듀테크 뉴스 큐레이션" />
-  <!-- (다음 단계에서 AdSense를 활성화할 때 여기에 스크립트를 넣습니다) -->
+  <title>AI EduTech — AI 키워드 기사만 보기</title>
+  <meta name="description" content="AI EduTech: AI/인공지능 관련 국내/해외 뉴스 큐레이션" />
+  <!-- AdSense 자동광고가 필요하면 이 head 안에 스크립트를 추가하세요. -->
 
   <style>
     :root{--bg:#f6f7f9;--bd:#e5e7eb;--txt:#111827;--muted:#6b7280}
@@ -16,7 +16,7 @@
     .topbar{display:flex;align-items:center;justify-content:space-between;gap:8px}
     .links{display:flex;gap:8px;flex-wrap:wrap}
     .badge{font-size:11px;border:1px solid var(--bd);border-radius:999px;padding:6px 10px;background:#fff;color:var(--txt);text-decoration:none}
-    .tabs{display:flex;gap:8px;margin-top:8px}
+    .tabs{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
     .tab{padding:6px 10px;border:1px solid var(--bd);border-radius:999px;background:#fff;cursor:pointer}
     .tab.active{background:#111827;color:#fff;border-color:#111827}
     main{max-width:960px;margin:16px auto;padding:0 16px}
@@ -31,12 +31,13 @@
     #updated{color:var(--muted)}
     .toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:12px 0}
     input[type="search"]{padding:8px 10px;border:1px solid var(--bd);border-radius:8px;min-width:220px}
+    .empty{color:var(--muted);text-align:center;padding:40px 8px}
   </style>
 </head>
 <body>
   <header>
     <div class="topbar">
-      <h1>AI EduTech — 국내/해외 뉴스 모아보기</h1>
+      <h1>AI EduTech — AI 키워드 기사만 보기</h1>
       <div class="links">
         <a class="badge" href="/privacy.html">개인정보처리방침</a>
         <a class="badge" href="/ads.txt">ads.txt</a>
@@ -52,10 +53,11 @@
   <main>
     <div class="toolbar">
       <div id="updated">업데이트 시각을 불러오는 중…</div>
-      <input id="q" type="search" placeholder="제목 검색 (예: AI, 에듀테크)">
+      <input id="q" type="search" placeholder="제목 검색 (예: GPT, 생성형, 인공지능)">
       <button class="tab" id="refresh">새로고침</button>
     </div>
     <section class="grid" id="list"></section>
+    <div id="empty" class="empty" style="display:none">표시할 기사가 없습니다. 키워드를 조정하거나 잠시 후 새로고침해 보세요.</div>
   </main>
 
   <footer>© <script>document.write(new Date().getFullYear())</script> AI EduTech. 원문 저작권은 각 퍼블리셔에 있습니다.</footer>
@@ -66,41 +68,77 @@
     const elUpdated = document.getElementById('updated');
     const elQ = document.getElementById('q');
     const elRefresh = document.getElementById('refresh');
+    const elEmpty = document.getElementById('empty');
 
-    let all = [];
-    let currentFilter = 'all';
+    // 🔟 키워드(딱 10개). 영어는 단어 경계로, 한국어는 부분 일치.
+    const KEYWORDS = [
+      { term: 'ai',                      re: /\bai\b/i },
+      { term: 'artificial intelligence', re: /\bartificial\s+intelligence\b/i },
+      { term: '인공지능',                 re: /인공지능/i },
+      { term: '머신러닝',                 re: /머신러닝/i },
+      { term: '딥러닝',                   re: /딥러닝/i },
+      { term: 'gpt',                     re: /\bgpt(?:-\d+)?\b/i },   // GPT, GPT-4 등
+      { term: 'llm',                     re: /\bllm\b/i },
+      { term: 'generative ai',           re: /\bgenerative\s*ai\b/i },
+      { term: '챗gpt',                    re: /챗\s*?gpt/i },          // 챗gpt, 챗 gpt
+      { term: 'openai',                  re: /\bopenai\b|오픈\s*ai/i }
+    ];
+
+    // "제목"에 키워드가 하나라도 들어가면 true
+    function hasKeyword(item) {
+      const title = item.title || '';
+      return KEYWORDS.some(k => k.re.test(title));
+    }
+
+    let all = [];                // 항상 "키워드 필터"가 적용된 데이터만 저장
+    let currentFilter = 'all';   // 탭: all/domestic/overseas
 
     async function load() {
       try {
         const res = await fetch('./data/news.json', { cache: 'no-store' });
         if (!res.ok) throw new Error('HTTP ' + res.status);
         const json = await res.json();
-        all = json.items || [];
+
+        // ✅ 제목에 10개 키워드 중 하나라도 포함된 기사만 남깁니다.
+        const filtered = (json.items || []).filter(hasKeyword);
+
+        all = filtered;
         elUpdated.textContent = `업데이트: ${new Date(json.generatedAt).toLocaleString()}`;
         render();
       } catch (e) {
-        elUpdated.textContent = '데이터를 불러오지 못했습니다. (Actions에서 Update news를 실행해 보세요)';
+        elUpdated.textContent = '데이터를 불러오지 못했습니다.';
         elList.innerHTML = '';
+        elEmpty.style.display = 'block';
       }
     }
 
     function render() {
-      const q = elQ.value.trim().toLowerCase();
       let items = currentFilter === 'all' ? all : all.filter(x => x.group === currentFilter);
+
+      const q = elQ.value.trim().toLowerCase();
       if (q) items = items.filter(x => (x.title || '').toLowerCase().includes(q));
-      elList.innerHTML = items.slice(0, 40).map(card).join('');
+
+      // 탭 활성화 표시
+      elTabs.forEach(b => b.classList.toggle('active', b.dataset.filter === currentFilter));
+
+      if (!items.length) {
+        elList.innerHTML = '';
+        elEmpty.style.display = 'block';
+        return;
+      }
+      elEmpty.style.display = 'none';
+      elList.innerHTML = items.slice(0, 60).map(card).join('');
     }
 
     function card(x) {
       const dt = x.publishedAt ? new Date(x.publishedAt).toLocaleString() : '';
       const host = (() => { try { return new URL(x.link).host.replace(/^www\./,''); } catch { return ''; }})();
-      const groupLabel = x.group === 'domestic' ? '국내' : '해외';
+      const groupLabel = x.group === 'domestic' ? '국내' : (x.group === 'overseas' ? '해외' : '');
       return `
         <article>
           <h3><a href="${x.link}" target="_blank" rel="noopener">${escapeHtml(x.title)}</a></h3>
           <div class="meta">
-            <span>${groupLabel}</span>·
-            <span>${dt}</span>·
+            ${groupLabel ? `<span>${groupLabel}</span>·` : ''}<span>${dt}</span>·
             <span>${escapeHtml(x.source)}${host?` / ${host}`:''}</span>
           </div>
         </article>
@@ -110,11 +148,7 @@
     function escapeHtml(s){return (s||'').replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
 
     // 이벤트들
-    elTabs.forEach(b => b.addEventListener('click', () => {
-      currentFilter = b.dataset.filter;
-      elTabs.forEach(x => x.classList.toggle('active', x === b));
-      render();
-    }));
+    elTabs.forEach(b => b.addEventListener('click', () => { currentFilter = b.dataset.filter; render(); }));
     elQ.addEventListener('input', render);
     elRefresh.addEventListener('click', load);
 
