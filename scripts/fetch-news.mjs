@@ -88,11 +88,3 @@ main().catch(err => {
   console.error(err);
   process.exit(1);
 });
-
-// ... out.items 정렬 직후에 추가
-const AI_KEYWORDS = ['ai','인공지능','머신러닝','딥러닝','machine learning','deep learning','chatgpt','gpt','llm','generative','gen ai','생성형','openai','오픈ai','gemini','claude','llama','mistral','sora','midjourney','stable diffusion','perplexity','copilot','코파일럿','edtech','에듀테크'];
-const isAI = x => (x.title + ' ' + (x.source||'') + ' ' + (x.link||'')).toLowerCase().includes('ai') ||
-                   AI_KEYWORDS.some(k => (x.title||'').toLowerCase().includes(k));
-const aiOnly = out.items.filter(isAI);
-await fs.writeFile(path.join(outDir, "news_ai.json"), JSON.stringify({ generatedAt: out.generatedAt, items: aiOnly }, null, 2), "utf-8");
-
