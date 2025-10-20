@@ -2,8 +2,8 @@ name: Update news
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30분마다(UTC 기준)
-  workflow_dispatch: {}       # 필요 시 수동 실행 버튼
+    - cron: "*/30 * * * *"   # 30분마다(UTC)
+  workflow_dispatch: {}
 
 concurrency:
   group: update-news
@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # news.json 커밋/푸시에 필요
+      contents: write
 
     steps:
       - name: Checkout
@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
+          # cache: 'npm'   # <-- 이 줄을 없애면 lock 파일 없어도 됩니다
 
       - name: Install deps
         run: npm install
@@ -31,14 +31,20 @@ jobs:
       - name: Build news.json
         run: npm run fetch
 
-      - name: Commit & push if changed
+      - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain docs/data/news.json)" ]; then
+
+      - name: Commit & push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f docs/data/news.json ]; then
             git add docs/data/news.json
-            git commit -m "chore: update news.json [skip ci]"
+            git diff --cached --quiet || git commit -m "chore: update news.json"
             git push
           else
-            echo "No changes to commit."
+            echo "news.json not found after build step." && exit 1
           fi
