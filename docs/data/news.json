@@ -1,26 +1,33 @@
 {
-  "generatedAt": "2025-10-21T11:27:45.124Z",
+  "generatedAt": "2025-10-21T11:41:46.887Z",
   "items": [
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "Poland threatens Putin with arrest if he flies through its airspace on way to Hungary – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
+      "publishedAt": "2025-10-21T11:29:26.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "Gaza ceasefire live: Vance arrives in Israel as Gaza officials say level of aid delivered is far below what was promised",
+      "link": "https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates",
+      "publishedAt": "2025-10-21T11:23:48.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "[단독] 한미, 29일 정상회담 뒤 관세·안보 관련 합의문 발표 예정 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OaG9lZUdvVk1ONVE2ckhTUU5FVTR4YzljLXJHZUxFLVNOYXZVbElfdFR1X2lBWEFYaGpjd25neHRCa2RjVUV4VEo1Y3RKemsxQjZzX0JiMno5a01hbHFkelQzV0RDVlU2TGVqNEVsbkN6TVZl?oc=5",
+      "publishedAt": "2025-10-21T11:17:00.000Z"
+    },
     {
       "group": "overseas",
       "source": "The Guardian World",
       "title": "What can Sarkozy expect in La Santé prison and what has he taken with him?",
       "link": "https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france",
       "publishedAt": "2025-10-21T11:14:58.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "“역할 충분히 잘할 것”→4이닝 4실점…‘라팍 악몽’에 발목 잡힌 한화 류현진, 또다시 고개 숙였다 [MK PO3] - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LalNEdTU3YXBuWEFFQnhfNGxyZFRHZ201VDJ4VnFkTG1XY0h3RnkzT0dueFZkd2pINmxIWjFQeEhuYXJCZzNPQ2RzcmI1NjZWN0pV?oc=5",
-      "publishedAt": "2025-10-21T11:14:39.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "The Guardian World",
-      "title": "Defiant Sarkozy begins jail sentence as lawyer says he will be held in solitary confinement – Europe live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
-      "publishedAt": "2025-10-21T11:13:22.000Z"
     },
     {
       "group": "domestic",
@@ -32,16 +39,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "한화 노시환도 쐈다…후라도 무너뜨린 역전 2점 홈런 '쾅' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdWtON1dZbDRuUmlOcjBDWlpiNWRfSXk3bUlta005eng2bWZCTWxRX3ZtMnRTQy1tS2VIYlBndEtVYVlSTmFxNjZFNU1hYjVXYXlXTm1LTzNhdnfSAWBBVV95cUxPUVNOZlZWM2FhUV9KdUV0Ukd6MDFjalUzdDNjTmJsWnJ5LWlrQXdQZE5zbHhfSVFaSjlMdk12WlE3aVAxYlM4N0QxcXRmYkdCdE9JN2VObE9sTHZiMnc1Q3E?oc=5",
-      "publishedAt": "2025-10-21T11:03:57.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "The Guardian World",
-      "title": "Gaza ceasefire live: Vance arrives in Israel as Gaza officials say level of aid delivered is far below what was promised",
-      "link": "https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates",
-      "publishedAt": "2025-10-21T11:00:37.000Z"
+      "title": "김영웅, 18년 만에 가을 출격한 류현진에 역전 3점 홈런 폭발 - SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yT21mNWw3UGRzYjNCbG1kOWhRYVFfd0ljaER4ZkZhOENVcFFudC1RcmVKbEpJdFJHbXo4eV9MOVQ4RXRSRk9ZOXB2eUQyMmpJeE9Zcmh0VDZuY3RNM2c5WW9FSzIxWnJ5UXc?oc=5",
+      "publishedAt": "2025-10-21T11:03:00.000Z"
     },
     {
       "group": "overseas",
@@ -67,9 +67,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "[사설] ‘보수 유신회’ 손 잡은 다카이치 총리, 극우 행보 삼가야 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pNUFKMWFUYnhfQWFRZGFGTERYUjMwZnFfaWZKcU1XaUNmSk1mX3VmS09mNHh0QlRIWnlqQ1djNktVT3JGc29wblB3R2dwUDBDSlhDZnpDRm80QdIBX0FVX3lxTE9ILXNEX0hya0J3SE81WmhnaWxMMFVlaVhBbWctMTVGZmY0TEpJTldxV20tclJzR2JsalRMVDNWeDl0RUdYbzhobkFBWDZxVGhiUC1CaTlDaW5GSkU0LTVB?oc=5",
-      "publishedAt": "2025-10-21T10:13:00.000Z"
+      "title": "李대통령 \"갈 길 멀다\"…투기대책 지시[박지환의 뉴스톡] - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNkM0SmNMdkQtdmluVHVNVjAtd2E0bUNMeFRiUFlZeDlKSWhlLVZlQnhTQ05FZ2RHZXVZc0taX2IxUEdQZzF5blA3YmRGYkc4TkE?oc=5",
+      "publishedAt": "2025-10-21T10:14:00.000Z"
     },
     {
       "group": "domestic",
@@ -123,13 +123,6 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "[단독] 한미, 29일 정상회담 뒤 관세·안보 관련 합의문 발표 예정 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OaG9lZUdvVk1ONVE2ckhTUU5FVTR4YzljLXJHZUxFLVNOYXZVbElfdFR1X2lBWEFYaGpjd25neHRCa2RjVUV4VEo1Y3RKemsxQjZzX0JiMno5a01hbHFkelQzV0RDVlU2TGVqNEVsbkN6TVZl?oc=5",
-      "publishedAt": "2025-10-21T08:52:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
       "title": "[신 기자의 솔플레이팅] '이스케이프 프롬 덕코프'…유쾌함은 통한다 - 1코노미뉴스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSkU0bmRtVlRwMk9RYTMwNU0yX05YcFpCQUMzV2ppek1acUJGbG5FVUt6OFZUdEdsZEd6U2lwS2tzRXdsVlY2cmYwek5SVmRsSW5NckpUU1o5ckpsNWFfLUdFNm9zbnotenUya3J3ekM?oc=5",
       "publishedAt": "2025-10-21T08:37:36.000Z"
@@ -143,10 +136,24 @@
     },
     {
       "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "특검 “김건희 일가, 재압수수색 전 ‘금거북이’ 빼돌려…증거인멸 수사” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBieEJyUGY1eGNib0dldjRoSUZRSWV3OXAzUWtwNUdBUDdzclRKbXZ4VUtOTkJKUGtjcmxZTXlXNzhvalhUaFk5SUY0SVFxbkt3WWhFbnlCdXRMTFBjOWYyVS1seGQ1a3NjbmpJZW4tWDdRdw?oc=5",
+      "publishedAt": "2025-10-21T08:26:00.000Z"
+    },
+    {
+      "group": "domestic",
       "source": "Google News KR Tech",
       "title": "비트코인의 창시자 ‘사토시 나카모토’, 그가 정체를 숨긴 완벽한 방식 --포브스 - 블록미디어",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1INzBMNzZDWGVvZW9xdGFzQ2ZvTDZDZVo1M0FkTDRYeEIzU011NzNrb213ZGY5Yno5LTg0VGlfanB1TWNIb29oQW9DN01mOHF1aXhlaTZaRQ?oc=5",
       "publishedAt": "2025-10-21T08:24:00.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "[전국체전] 황선우, 개인혼영 200ｍ서도 한국新…김서영은 10연패(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01azZpWUtFb2RVcjFJVWp0TG8tTlFxM0ZGQWhKVjNxWEtOcnRPdG9zSFRjWGRzYzV0VzZtX1h6X2xTYnVWeDZvVmlVMzF1WVB2V256SUJHYVd0b28?oc=5",
+      "publishedAt": "2025-10-21T08:15:46.000Z"
     },
     {
       "group": "overseas",
@@ -154,6 +161,13 @@
       "title": "Australian Christian Lobby says any new laws protecting people from cults could be ‘very dangerous’",
       "link": "https://www.theguardian.com/australia-news/2025/oct/21/australian-christian-lobby-says-any-new-laws-protecting-people-from-cults-could-be-very-dangerous",
       "publishedAt": "2025-10-21T08:15:24.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "대통령 측근 3인방 ‘김·상·식’ 광폭행보···지방선거 다목적 카드 활용 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9od2NvVHg1MkMtUC1CV2xlZHpzVjYwY2J3VFN5Z19JYmpQcG5qQjY4ckNfMjM2RXNjZmJsRldaY1hQVlNTd0YwSDBCLWgzR2dDUl9jVnZBd2Rxd9IBX0FVX3lxTE1aN2otVUFTcHZTY2dsTzhGRGdzbTJiVWNweHp4QVd6c1dxRHlpZFJWUWJIMUVKaXY2MGs1bUVhZng5NnRhMG92MjBkcXpwbzZKYVBaQ09rRFJNMWNRTXFB?oc=5",
+      "publishedAt": "2025-10-21T08:10:00.000Z"
     },
     {
       "group": "domestic",
@@ -191,13 +205,6 @@
       "publishedAt": "2025-10-21T07:35:00.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "‘서초 아파트 두 채’ 이찬진 금감원장 “한두 달 내 정리” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFcFdpSm5zRzFfQlNRd3U3X0d6NFR6dk5KQXRYTjh3eDhxbUFKUEF6cVFRUEZxUTlUUWZzQmNpNzZKQnlXSGl3SkJKNHYyaUhQVHVuTlVzRmhqZTRtRTFibnhtMXBWMnc?oc=5",
-      "publishedAt": "2025-10-21T07:29:00.000Z"
-    },
-    {
       "group": "overseas",
       "source": "The Guardian World",
       "title": "Pat Conroy says China’s claims RAAF aircraft illegally entered its airspace ‘factually incorrect’ – as it happened",
@@ -221,16 +228,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "지귀연 ‘수상한’ 휴대폰 교체 증거인멸 고발 사건, 공수처 3부 배당 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82OHZVWWVKVnlBZlNTVjhMV3ktcUg2UnNZQ1I0T1NObE13bGN3LWNiR3R2MUJ3ZkktSExyNFNCQm9kQ05KaTR3eGxVbklBWkR0OTFadXBuQXoyUzhkWENRcTlvN1k1UUR1VkhyYURSZy1yZw?oc=5",
-      "publishedAt": "2025-10-21T06:17:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "李대통령 “가용 정책수단 집중 투입해 투기수요 철저히 억제” - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREtrZUtrOVBIa1prSllmX1RwZHBGMnRxRVlXcGt1QmxyZjRuTzhNXzRoWEpHWlNkSnhTS3I1YWEyZFBRbEpPY3RLdFhRUnhzSEgtUmpyb3ZPbnlKbTI2TDh6bHBWX1lZNWhZX1JuNVQ5UVl6WHdXTjhIZW1xQXU5a1JCNjFmZDRF0gGcAUFVX3lxTE8yQ0l5WFNkWHFvSW00VElWcXlMVndDVzdOZDlTZUUwNFRBNHNYZFM4a1k1T2s5NGRQb0Z1c1NCd19SaGNWb0dJdEY4XzRrZHpkbHM1MkhHelN1ZnZsdVFfdUxNVEdSTHRqMWFEaDVFdGQyT3J2ZFA1QzlNYkZfU2pudDA4TkFrdldRMVdwRmhtcWtFOVF6ZlZLNHFqOA?oc=5",
-      "publishedAt": "2025-10-21T06:04:00.000Z"
+      "title": "[포토]황정민, 다웃파이어 변신 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBndU5KRlRKRm9GMU5iMVB2S0ozX2habEVMQmN2d3ltY2ExaG45UXVzODJvOGI5VnVYSU5SY2g4T3VhR0JzV01Vb0tCY1JnRnQwelhn?oc=5",
+      "publishedAt": "2025-10-21T06:20:00.000Z"
     },
     {
       "group": "overseas",
@@ -252,13 +252,6 @@
       "title": "“희토류 1년 뒤엔 차고 넘칠 것”…트럼프, 호주와 ‘희토류 동맹’ 맞불 - 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eF9zaGN2eExLZzYyYzVxM3VVdU1la2VVN09oN0RobDNNQ1BwSzNZVnJzUkJSNzRHb2lJN3FhOExnWE50am9RZVZUVjAwcWd6M1E?oc=5",
       "publishedAt": "2025-10-21T05:27:08.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "서인영, 10kg 찌고 코 보형물 뺀 성가대 근황…\"못 알아보겠네\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05ek9pcGttUmNpY3YyVnR0TWV4eUJ5WlZ4ei1VZ25INXpBU29Wd2Vwb3pDNkF1cmY5cTRVRThCRTJiNFNNLThuS0FpNFA3M3hrb1Nn?oc=5",
-      "publishedAt": "2025-10-21T05:23:00.000Z"
     },
     {
       "group": "domestic",
@@ -297,17 +290,17 @@
     },
     {
       "group": "overseas",
-      "source": "Google News World (KR)",
-      "title": "“시력 잃은 어르신, 글씨 다시 읽었다” 전자칩과 특수 안경으로 시력 되찾아 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0p6QzFEemV6Z05XYU00OWxfenVDc1lEQU9KajItdm93NzluZU10cFotWHNzLTBMTUhDOXRVX2NFWUF1TkpRMjY3OFBKbFc3Y3RSbzVqcVh6NjVoUzhHUC1McHU1RkZrY3lzcEFXN1dWXzJKMDlDY2JKSmdrRnpvak9YVdIBlwFBVV95cUxPdDdxU3l1MEotbUhFVUtNbzBOMExPeHlTcnI5d0p4TlEwZUd0ZEhud1NJbGladFBudmtjYnllQzlpZzdEWXFIX3NpN0VmbElwWEJRWDhEZ2c5ZlFzYkF0NW5QVmR0X3BGYjJxWUtVZklEQ0xoaFhqQTFjVGRfY0FjVlZpUzkwSmRCWVJtY3FWU1hwaEFvd28w?oc=5",
-      "publishedAt": "2025-10-21T03:56:15.000Z"
-    },
-    {
-      "group": "overseas",
       "source": "The Guardian World",
       "title": "More than 1,000 guns and parts seized in illicit weapon crackdown in Australia and New Zealand",
       "link": "https://www.theguardian.com/australia-news/2025/oct/21/australia-new-zealand-gun-control-firearms-seized-weapon-crackdown",
       "publishedAt": "2025-10-21T03:22:25.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Tech",
+      "title": "스탠다드차타드 \"비트코인, 2028년까지 50만달러 달성 100% 가능하다\" - 블록미디어",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9abk11WGNQZmJIa0xGZkRNOVlEMGl3ZnFlOE9SeExYTTd1dkZWSlZrUGhwSEMyTzlidjdlMnZ0SG5tenF3SXgtMnJmWmpXNVJ3bGROcThqQQ?oc=5",
+      "publishedAt": "2025-10-21T03:07:00.000Z"
     },
     {
       "group": "domestic",
@@ -322,13 +315,6 @@
       "title": "[파생시황] 하루 만에 5000억원 청산⋯60% BTC·ETH에 집중 - 블록미디어",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oci11MUNnZGdpdWFYZ19XeHVBc0xmX1ZvR3E0Z1R5ZDl2VmV0T1o2NkpPVFVodVgwU3VHQWY0YXdYa09xVlplWmtNc1ZHVTJxaTJKNHBKTQ?oc=5",
       "publishedAt": "2025-10-21T02:42:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "[단독] 이상경 차관, 매도한 아파트서 전세로…5억 차익·갭투자 논란 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N3JjXzN0RktKbnRtMUJ5UHAxdEJiVzI4cHhiVU4tTWhaMF9TbDZrS1hGUDZPdXY4Y1NBRXRnQVkyMURFOXRYT1EzM1QzVWZYakhEb0ZENjVQSzQ?oc=5",
-      "publishedAt": "2025-10-21T02:40:39.000Z"
     },
     {
       "group": "overseas",
@@ -359,11 +345,11 @@
       "publishedAt": "2025-10-21T02:05:58.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "20억 복권 당첨되자 BJ에게 2억 ‘펑펑’…아내에겐 ‘O원’ - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Z1BDSG8xTnI2OG13RXNtRUZvTmJjQ0ZqQ19UM3dVTGs3bWdfVWRmOGNPbm9WTVFFM1puc1ZlTnhfZ2VaSWIzb253di1SZlJyM1NYU0pIZ015TTVWb095bTVHNXo1OUVnMFFkTklaRURya3M?oc=5",
-      "publishedAt": "2025-10-21T02:00:27.000Z"
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "20억 복권 당첨되자 BJ에게 2억 '펑펑'…아내에겐 'O원' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkRGYtTWsxN3puNE5wR3BRMGxMcWxLWGJQeG93cFZ0dFFWMnJ0UjBPYlg5b3hqVngxVlNROURBdXltSU5QTUxiV21LLWJzTFNBSGJN?oc=5",
+      "publishedAt": "2025-10-21T02:02:00.000Z"
     },
     {
       "group": "domestic",
@@ -380,8 +366,15 @@
       "publishedAt": "2025-10-21T01:44:00.000Z"
     },
     {
-      "group": "overseas",
-      "source": "Google News World (KR)",
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "SK하이닉스 장중 50만원 돌파, 삼성전자 10만 눈앞 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BcEl1RE5odmlLeldaQ2dHTDdCOGJ0YWFNRmQ0aW9OYkV4blphOWJ3ODRmdnhnbzlaZUVNb25vYnRsREZGSWV1R0FUNGZCQ1JNSzZUdkoweWVNcDFMeS02YUY2eVFfelhqLXN5Q1dDRngzdw?oc=5",
+      "publishedAt": "2025-10-21T01:11:00.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
       "title": "'관세 충격' 대미 수출 4분의 1 뚝…무역 적자 심화하나 - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wdnNEYXRCcnZVWHdVR2IwVFpTbkFxa2phX0tKZmpFZVJLbDk1NUNtV3VIZ2QyQ21JbWVBbVVfX2U0bDM4THd3bW1IcERNOC1wWDVJVzRQTmZCQdIBVEFVX3lxTE5iTm5uYjFhQVVZV2JibGxZYWJWb3JBTjV3NmRrcVlCdG1MR21nU1dYZlZQNVB6US1LeGVUYlphTURJcWFlODZCMnJjaFNTLUVkLV9DTw?oc=5",
       "publishedAt": "2025-10-21T01:05:45.000Z"
@@ -429,13 +422,6 @@
       "publishedAt": "2025-10-20T23:59:43.000Z"
     },
     {
-      "group": "overseas",
-      "source": "Google News World (KR)",
-      "title": "女 아이돌과 데이트 위해 570만원 냈는데..알고 보니 유부녀 '충격' [스타이슈] - 스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dmFWVkxYQmdzRl91a1RIOTFNX0Mtem92Z05XdDJlT3E5aVBONUcyWXV3LVBIa2tTcHFkcS1wcWtyS0czSlVOMTJXSnpMeUF3UkZfb01LbVJ1aGtsR1dueHFybEpoM1FvT2lhdjRpZTlhVDQ?oc=5",
-      "publishedAt": "2025-10-20T23:42:38.000Z"
-    },
-    {
       "group": "domestic",
       "source": "Google News KR Top",
       "title": "美교통장관 \"스페이스X 개발 뒤처져\"…아르테미스 계약 재검토 언급 - 네이트",
@@ -462,6 +448,13 @@
       "title": "Anti-malaria funding cuts could lead to ‘deadliest resurgence ever’, study warns",
       "link": "https://www.theguardian.com/global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa",
       "publishedAt": "2025-10-20T23:01:26.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "아이돌과 데이트 하려고 560만원 썼는데…\"경호원이 남편\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6Vzd1eFNsN3d2MDNDR2EzdU93cUFfb3BDanc5cW5wZGJpaGpKNThiSG90X1g2anBkTEtVd0VIRTcyMUNSeHJPMUx0U2xEYWUySHNkMTEtc2xOQdIBVEFVX3lxTE9nNU5BVGp0bFdqclRseUN1bkRaTHBpc0wtVElFZEs4bW9BRWtOTWhqeUVEXzFPcDhRNm9HdkozMzFLbmFBMWd5aGpOekNQWHlaVGN3OA?oc=5",
+      "publishedAt": "2025-10-20T22:56:26.000Z"
     },
     {
       "group": "domestic",
@@ -501,16 +494,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Tech",
-      "title": "[오늘의 운세] 2025년 10월 21일 띠별 운세 - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMjh4ekZvMXhmTWhQUDZ4MjFuTFlKQ3JnYUhrb1RNdEl4WnYtbmJMLV8wNmtMOVFrbVpYZGF6Ty14LXdxNHpCR1Z0N0htclBnM0M1ZFc5YkFxV29tVWJNSlhZN3JHNjVmMU1jTzdoYndWbTlyRjQ5UERFMVcwZExpMQ?oc=5",
-      "publishedAt": "2025-10-20T21:01:01.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Tech",
-      "title": "리플 공동창업자 크리스 라센, XRP 5000만 개 처분 - 블록미디어",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTUXIycVc3Znc4THJkZGk1bWZXczR0UThMeDNIcUUzUk8tUFV4NDBpUmxRMkpKa2JzV191aXk4eTZXcGRESE8yY3BBcnNqaGhibG0yU3RTcw?oc=5",
-      "publishedAt": "2025-10-20T20:05:00.000Z"
+      "title": "뉴욕증시 양자컴 \"돌연 급락\" ... 아이온큐 리게티 퀀텀 \"매물 폭탄\" - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3ZmR1lfT2xBcWxuYnZUVlRCVk1hZUhUSkZYY3VEMUhFVDcwOHFGYWxwZVNEd01tT3VvdUhMTU5kZkpoYWVZRDQxYXhyQzc5cHl4UkV3R3F4TVBuSW5KTVU3RnlQbjU3NE5fSjBva3pQcHRKLTI1UEVObEZaalhyLU9GRmVQamdj?oc=5",
+      "publishedAt": "2025-10-20T20:09:42.000Z"
     },
     {
       "group": "overseas",
@@ -597,6 +583,13 @@
       "publishedAt": "2025-10-20T14:03:00.000Z"
     },
     {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "대법 “지귀연 한두 잔 먹고 술자리 떠나, 동석자가 170만원 결제” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenJUd3E3TXl4ZTE5bU9iTmxGaUozRDByc1cyQ3dNVGluT3ZodjhXVWs1blZUUWNic1NwYXlaME9JT1JxeXpIdUF4YjdZdEpYejd2ZGFyMmM5RW1UMFhzNkRvVGEtUjVCelJDaTZ0dHFMaldSOWNRNGRKM1NjVHI4U0d1QVNpMnfSAZsBQVVfeXFMT1lYVkhubEo5cjFNa015ZzB1azltZXZEQWNZbXhVbUN5MTNUaVBPY2hyLUpkV0lONmlibFRJMXdyNjdqeldIMWVqWjhKd1BWeUxEckppOVlsR0c5ZFQwUjU5b3AxeHU3MFRQaDZiZ1RXUHZYbFdhT2dKaHZ5bXVCVDJWbk1DNzVEMk91TG1reWZtS2xxS2dtclBfUEU?oc=5",
+      "publishedAt": "2025-10-20T13:54:00.000Z"
+    },
+    {
       "group": "overseas",
       "source": "Google News World (KR)",
       "title": "‘여기’ 누워 자면 허리 다 망가져… 척추 전문의가 꼽은 것은? - 헬스조선",
@@ -620,8 +613,8 @@
     {
       "group": "domestic",
       "source": "Google News KR Tech",
-      "title": "“해병 사망 당시 휴대폰 비번 발견”... 기억 안 난다던 임성근, 입장 번복 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUhyb1kyVWhsYVY2b0Z5OW1SbnF2YWJUUGhvbEs3blJXT19FZzdRSm9EMjRPQzF3dm5UT0RHVkFWX2stMnJ2dXhyWk01RUdxd1Zob2Yxb2NLNi1vaEt4bENLaTVaVEZyTzdXaDZRdDFEYjIwSzJ4Mjg1VFNfU0Jid0JiYnhBckHSAZsBQVVfeXFMTzZ4SWlPQXBiRll2WWhJeDY4ZVdQNEhKcmg3WTBxY1Y4Mk9hNE5mVGNJeFdmbWVwbmVtcWswRXczcnBPdTZEZy1hcEJ2cXlVOUFrMDVmbzRhUUJNdHNVeHZYMFRIVGZhN2t1bk1xdTJPN2V5RUdKMjktR28xYmt3c3dvTGpPbHFfdDlrUlNsQVZlNjhkQlZ6VWhvMU0?oc=5",
+      "title": "\"해병 사망 당시 휴대폰 비번 발견\"... 기억 안 난다던 임성근, 입장 번복 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUhyb1kyVWhsYVY2b0Z5OW1SbnF2YWJUUGhvbEs3blJXT19FZzdRSm9EMjRPQzF3dm5UT0RHVkFWX2stMnJ2dXhyWk01RUdxd1Zob2Yxb2NLNi1vaEt4bENLaTVaVEZyTzdXaDZRdDFEYjIwSzJ4Mjg1VFNfU0Jid0JiYnhBckE?oc=5",
       "publishedAt": "2025-10-20T11:04:00.000Z"
     },
     {
@@ -756,6 +749,13 @@
       "title": "홍콩공항서 화물기, 활주로 이탈…차 들이받아 탑승자 2명 사상 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUzBlWmFSZUprc01MVFI3SDJWWUpvRm1aSFVqWEJ4RjZEM3JSdGVBZzJuYTluejFXb1J3M1AwY0pmdThCc19SUzFyejB6bGctUS1rYzE1SlduZTjSAWBBVV95cUxQVjZkNlFVS0lNZmk4QXc0Qm1UU0hvVzAzTkNUWHdBNDE4YVQ5ZmxmaUNwOWU2VnZjNlFwcUhuN2hnTzA1bEFIV1JUb0ZZR0owQW1oTEsxbC1YYU83bUJjSlk?oc=5",
       "publishedAt": "2025-10-19T23:54:54.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "24호 태풍 펑선 정보 등 지역별 오늘의 날씨 및 주간 날씨, 당분간 기온 낮겠음, 동해안 중심 비, 해상 높은 물결! - 이코노미톡뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56QlczN1FUemFGRTF1VVJfd3RmVVlCclN2WlpyMWhDOENqeXpOSFdkQVlPcjk5Q2YzRWFPY3V4aGhQTWhfUVRUUE9wVDRRY2tlLTZpRHFLODRMSXFiQm8zVjY5WnBwZkxON1VCSQ?oc=5",
+      "publishedAt": "2025-10-19T23:31:42.000Z"
     },
     {
       "group": "domestic",
