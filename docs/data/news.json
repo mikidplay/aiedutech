@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2025-10-24T10:43:03.790Z",
+  "generatedAt": "2025-10-24T11:29:30.464Z",
   "items": [
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "Meta found in breach of EU law over ‘ineffective’ complaints system for flagging illegal content",
+      "link": "https://www.theguardian.com/technology/2025/oct/24/instagram-facebook-breach-eu-law-content-flagging",
+      "publishedAt": "2025-10-24T11:12:59.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "Zelenskyy meets King Charles before discussion with Starmer and ‘coalition of the willing’ over military support – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/24/volodmyr-zelenskyy-ukraine-russia-vladimir-putin-sanctions-keir-starmer-coalition-of-the-willing-military-support-europe-live-news",
+      "publishedAt": "2025-10-24T10:58:46.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "US secretary of state Marco Rubio says ‘Hamas cannot be involved in governing Gaza’ – Middle East live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/24/aid-gaza-israel-palestine-benjamin-netanyahu-hamas-ceasefire-west-bank-middle-east-live-news",
+      "publishedAt": "2025-10-24T10:51:54.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "The Guardian World",
+      "title": "Scottish fire engine destined for West Bank may return after 15-month Israeli seizure",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/24/scottish-fire-engine-destined-for-west-bank-may-return-after-15-month-israeli-seizure",
+      "publishedAt": "2025-10-24T10:51:02.000Z"
+    },
     {
       "group": "domestic",
       "source": "Google News KR Top",
@@ -9,32 +37,18 @@
       "publishedAt": "2025-10-24T10:39:09.000Z"
     },
     {
-      "group": "overseas",
-      "source": "The Guardian World",
-      "title": "Zelenskyy to meet Starmer and ‘coalition of the willing’ to discuss further military support and how to pressure Russia – Europe live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/24/volodmyr-zelenskyy-ukraine-russia-vladimir-putin-sanctions-keir-starmer-coalition-of-the-willing-military-support-europe-live-news",
-      "publishedAt": "2025-10-24T10:25:00.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "The Guardian World",
-      "title": "WHO says aid situation in Gaza ‘remains catastrophic’ despite ceasefire – Middle East live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/24/aid-gaza-israel-palestine-benjamin-netanyahu-hamas-ceasefire-west-bank-middle-east-live-news",
-      "publishedAt": "2025-10-24T10:20:12.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "The Guardian World",
-      "title": "Instagram and Facebook found in breach of EU law over flagging of illegal content",
-      "link": "https://www.theguardian.com/technology/2025/oct/24/instagram-facebook-breach-eu-law-content-flagging",
-      "publishedAt": "2025-10-24T09:45:09.000Z"
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "'아니 왜 1루 안 던져?' 한화, 김태연 실책성 2루타 허용→최재훈 포일 낫아웃 첫 실점 [PO5 라이브] - 네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xY05na0lkbnl2U1V6UVRRdzFraHhBc2RlWk5lRzJBZFZSUlFVbWdCNFQ3MHdycklRN0pJT0lfT3dYUVZTejNUQTlSZk9lc284aHg5ZUI3MTlwMFVC?oc=5",
+      "publishedAt": "2025-10-24T10:34:00.000Z"
     },
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "민주, 당내 ‘재초환 폐지론’ 일축…“개인 의견일뿐” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qOVJFVi1TQVpMakF5Z1o5UTRRcmxCX25PbWYxRllfVnl3X2dfSUNFbHJRWFdBTTZqY0pDZS1yZVA2anp4SWNESHFweFpIRUtHY3c3dzNRVUhsSXo3ODI4TDRkdlVvLV9NcXI1TXhlamRXUU9E?oc=5",
-      "publishedAt": "2025-10-24T09:36:00.000Z"
+      "title": "지귀연, 자신 엄호해 준 윤석열 변호인에 “당황스럽다”한 까닭? - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5bEdBeXViUmstcjFFZjI5ODVxbnRQWkFpSk9TRDJuZHFGUm94Y1dLZThQTVR5MVlOOGFQZjlHQndjVXotbzJJbTZ4Qm5nV3FHZVkxUDBFWDZvYUJvNjRZdk9kRm1NaVpnczhWal9XbTRlUQ?oc=5",
+      "publishedAt": "2025-10-24T10:10:00.000Z"
     },
     {
       "group": "domestic",
@@ -72,13 +86,6 @@
       "publishedAt": "2025-10-24T09:00:54.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "‘68만 구독자 크리에이터 조코딩 “AI 시대 1인 창업은 현실” - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bHNDeGxQNmdXaFc5ZmNuWFV4NjNIME5JSjF6b18wVEwtbV9YbXF3blhHSC1YSVNfa2hySzZWZzdieGFJVkw1YmxsNHVrOEVld3I3Nm9PaG9PQUE2SEhqMUdBWGhDOTA3c3c?oc=5",
-      "publishedAt": "2025-10-24T09:00:00.000Z"
-    },
-    {
       "group": "overseas",
       "source": "The Guardian World",
       "title": "Ireland votes for next president as polls predict landslide for Catherine Connolly",
@@ -88,9 +95,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "“오 시장님 빨리”…정부 성토 대신 재개발 촉구 쏟아진 국힘 부동산 현장회의 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJOFBlaU9ZWGcwemZFNUszQ010TFRyVFk4OEVsMDAxZHBTOU1wQ2lWZENiWDdaUXlXN25nYzZCWTFjNURwenRqVjNrOWM1Y0NoS2JpMXBpRVRvalhqSFBLZ0RiVnYyOXZRMzhTUDU3bUJnbmZL?oc=5",
-      "publishedAt": "2025-10-24T08:04:00.000Z"
+      "title": "성난 부동산 민심…대출 갈아타기 규제 푼다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03VEdMUnFJNHNRQTRTVUJfRnRCN0FKdzlndmQ5M3JCZjljNHRmeVBBM0otYmRnOWZxS3FSS1lEWjFQMDRTR0oxaXlMaElTZHdHWE9tUWlZV0hhUdIBVEFVX3lxTE5CUW5SZlpkWmk2alVTOGprOXRhWWtOV1V4U2dkWGlOVi1mNHB4NGtoNlBxcWt5d1Fra2dQa2RyanBEbWVJUFNLQmpqU19RUVdVNC0zYw?oc=5",
+      "publishedAt": "2025-10-24T08:44:39.000Z"
     },
     {
       "group": "domestic",
@@ -102,23 +109,16 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "금융당국 “6·27 이전 계약, 전세퇴거대출 LTV 70% 그대로” - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VM2F5TzQ2VDFwRFExTEJCcHkzQlFESkp5b2lxOGNTelQwbFNpcXFSWk1RRWJEelUtQ3J4Vk9nak1VTjIta1JQdzFOMTNZRUczSXJrS2ZGY0VLdHM?oc=5",
-      "publishedAt": "2025-10-24T07:48:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "리오넬 메시 1위, 손흥민 2위. MLS 유니폼 판매순위 발표. \"SON, 계약 72시간 만에 가장 많은 판매량\" - 조선일보",
+      "title": "리오넬 메시 1위, 손흥민 2위. MLS 유니폼 판매순위 발표. “SON, 계약 72시간 만에 가장 많은 판매량” - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDRrLUgxem50clBoUzBickVUUVBMeFZ4RmlvT1YxbWowN3lZcmlVSHJjXzNOSXNQSWozR20zUFJZc2YtcTJFdWYwcFNJSUliVm56ekhmOWRIelpyM1VZamNmZk4wS1RYUFZMVDE5RVFmd29ZYUZvaEk2ekdvelhPQ2NidDhKWG1lS1dr0gGfAUFVX3lxTFAyQnprU1pFZXNvVWpPTVNMemJBeTltWEJTcjB2TThGdUV2Z0t5bmpSSVlHYmg3eV9qWWdrUjZKVm10YzZ0TGN6Q0VHY2hibVZjcGhuTlBKOWgtQW12Y0puLXZ1LU80M1FxQXRkcldnWXBBVzI3UFREaHlPMHp1dmlYenczMmQwLW1sTE1oaXV3RjNqUkNXUkpuS1hpZmlfdw?oc=5",
-      "publishedAt": "2025-10-24T07:29:00.000Z"
+      "publishedAt": "2025-10-24T07:39:50.000Z"
     },
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "5차전 폰세 카드 김경문 감독 “김서현 없이 용병들로 끝낸다” - 충청투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mRC04ekN0OWZqYVlXOUFfQ2xuZi1GR1ROR3FTWGtFQ1hDZXdlYzJ3dWZUS3ZUYm9nOUZfaU52c3loYndYc19WeG5BXzRZZVB0WGRzczRYQ3Qzb21UQlhyaTJodkJfUXZydTRlVk93?oc=5",
-      "publishedAt": "2025-10-24T07:17:56.000Z"
+      "title": "김경문 한화 감독 \"오늘은 폰세·와이스로 끝낼 생각\" - SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00VFRsYXBMMGxTMWFDd0JGeExpVEZpQkJZc2RwUWlZT0l6OW1DRm9sTE04eDRoeWpHT0NYdVJBSjEyQzRLaV8yUlgxcmdjSXVyd0FUVGtyQ0tDLXlqZEpEbW5BbmNiTUN6YXc?oc=5",
+      "publishedAt": "2025-10-24T07:23:00.000Z"
     },
     {
       "group": "overseas",
@@ -140,6 +140,13 @@
       "title": "트럼프 “캐나다와 무역 협상 종료”… 레이건 이용 ‘관세 반대’ 광고에 대노 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkJ4c3dJc2x2TE9QbDhWT0M0VUdWd1NqRUFfZFU0MU1VbDBKUVIybUN4N212OFVMTHRsempYb2ItRV94NGFYX1NJLWZfanczaXhNTlpNZFU3Y1E3dlh4WlB4YmFiRUV3dmdkYkt6Qzk0bFN3NXdiNlhLN2hCLXJVMk1lS0zSAZgBQVVfeXFMT2t1cWdmUDZXUkJaSGdGbk53WjBqd2NDQUxUc3VpVXRkTDVENkUxejhVV3RwYWszdUptanQzMDdSTHB2Y3dPT1RkSzlrOFpyeTNlWHF5VHlCY0h5TkpKWi1hWWZ1VnBVQ0ZwX2M0RlFfNUYtdFh3V2hEZ3dJT0pTeVhsNzMxempXaDBEOHIxU19KN1ZHN29wTUM?oc=5",
       "publishedAt": "2025-10-24T06:55:00.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "\"유해라도 돌아와 감사\" 동일본 대지진 실종 6세 소녀, 14년 만에 집으로 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lbEJ1c1hkdVdCMTc4U0p4T0VJQkJQQlBUd0JTd081WENSbmVGdDVjeFlha09WV3NrcTRYTE9maXF6ZTNBUmdpWHdpUWtHVkk?oc=5",
+      "publishedAt": "2025-10-24T06:53:00.000Z"
     },
     {
       "group": "domestic",
@@ -165,6 +172,13 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
+      "title": "\"카이스트 총장, JMS 행사 여러 번 참석\"‥국감서 JMS와의 관계 논란 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lYXd2QXFMMkNPeGxidnRvZDdqSjgyang4T2xFVWNpTTRLU1B3TThTVTVvSzJWOW5xRlRUclFRMHhzSU04c214b3llTVBUenZ1ZjZmVkV3ZWZ5MzJCQXNEVkJjbUc1bXpLb0RKNWNjUUVDckYxZkYtWdIBeEFVX3lxTE53X1hsY2REQzRWR1M2TEctdDZpZzFVRkV4bTZybVFVZ05MSnFEOVVmNzBZTU1TNnd2Q1Ytd01kSTQ0cFc0Vll4MXBPM2NjRE9BTnc1TWhtbUY1OVNqX1UzLUhTUzQtQUZQaW5mOVhVYzZnblhPN21wOQ?oc=5",
+      "publishedAt": "2025-10-24T06:41:11.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
       "title": "배우 이순재 위독설에 정동환 “건강 꼭 회복하시길 기원” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TdlJJZjUtU3ZXa1RxZHRpb2UtMDY5NXpyQUlseGlSWV94ZTVHVGU4RHZjRUFPaGZsdGlYNDJVd2lfSm5VNVE5RHVsN0oyeDNGT2xTY2tFelpJak55LVpOT2pLLWN3bjRkTFl6UWlPbGRqUQ?oc=5",
       "publishedAt": "2025-10-24T06:38:00.000Z"
@@ -175,6 +189,13 @@
       "title": "Author of EPBC Act review ‘bitterly disappointed’ with Coalition’s stance – as it happened",
       "link": "https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb",
       "publishedAt": "2025-10-24T06:37:54.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "정동영 “北, 판문점 주변 미화작업... 트럼프·김정은 만날 가능성 상당” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnVkbUVfc0tMaXZLQnQ2ckRheGtWQkdvR0l2SnJDUWFEN09GQ21kNEVOaWM2SUU5UXBVa1V0MW9RVEhpWGNhUmVOOHFfanVaYW4xZ2tZS0RSbW5TMm5MSGY3cFF5NDJiczlBdlZCRm8tbWlia01IbFpuV2lwNTNpaHhHWjlDcUdVb0cyWjl2T2bSAaQBQVVfeXFMT2VmbndXWjI1Q21UcXYtMG5QcjZXS0tVQ1dPUWJ4VDlob25nUW1QQ0x4YWUybEY4SVZNN0t5UWQ5bk9PVjlySHByR0ZhclZHM3V2UGwxNlFPZU1URDF6dHRTN3Exc3lXRGRjV25LdGN5ZHBiMmdLT2ltbmRrcko5aVhkVGR4YXdqUjVaekZaLXRpZ2NyZFFGWHV6Sl94Mm5hdU5nYXo?oc=5",
+      "publishedAt": "2025-10-24T06:14:44.000Z"
     },
     {
       "group": "domestic",
@@ -196,13 +217,6 @@
       "title": "이 대통령, APEC 계기 29일 한미·11월 1일 한중 정상회담 - 대한민국 정책브리핑",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1BQUlZUdGlIa2RSS1F5TmdMZWJtMHNOdnpNc19yQTFEeE90c0FhelhBY3lqTXNiSi1BMVY1WFBpWUpyeW0yNlJQZnJRb3c0dkJ2bzlCcmYyM3FMTXBTMkdFQlcxSjNxNEtkaENSejdmWW5QbmgwdVRIYlQ2a1c2ZXN4NUFiTzg2bTlEdQ?oc=5",
       "publishedAt": "2025-10-24T06:00:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "가수 나비, 4년만 둘째 임신…\"건강하게 자라고 있다\" 깜짝 발표 [공식] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTGx4SXY0SXpjNGY2VERDUlZpZmNMRk1QTGpDM2x1OG1yOGpsejlFaXNYUHVEeTdtZ2NDZTFBT3BHRlNJWFB4MzMydGs3YTFXbjZr?oc=5",
-      "publishedAt": "2025-10-24T05:59:00.000Z"
     },
     {
       "group": "overseas",
@@ -247,6 +261,13 @@
       "publishedAt": "2025-10-24T05:08:19.000Z"
     },
     {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "벼랑끝 중소기업·자영업자···대출 연체율 악화일로 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tdWNEVEJ4NWJVVGlocm9aWm0yVEptemJHRFVSeTJyM0owYXByRS1YdEE5MGJHbWlDcUl0ZzFxZkFxbjJKZDVxbkY3LTNEQ3M?oc=5",
+      "publishedAt": "2025-10-24T04:54:00.000Z"
+    },
+    {
       "group": "overseas",
       "source": "Google News World (KR)",
       "title": "곰과 맞서 싸운 60대男 기적 생존…알고 보니 전직 권투선수 - segye.com",
@@ -261,25 +282,18 @@
       "publishedAt": "2025-10-24T04:36:27.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "“이상경은 부동산 주무 차관”... 사퇴 여론에 선 그은 민주당 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanpURWE2djFNTVVUVlljbkgyWUU4RXB2QjVtWjlGLXRCZDZ4VG54Z0F2LTVDZUM0cE91dmhPRDBVOFhXb3RqczVpSi1FSEVPanVsdDB4U0xPbUtCNTE4ZFhRbHlQNWF2bkwyWUJOLUdYWnlGbWJGVVp4LUE1QVhaN204ZVlvZ9IBmgFBVV95cUxObWlSWFFmZzdYUldSTThkbDdLYjA3X1RYQ3lmVGVETmxBNDA4QjR0dk41ZTJiTFJaRGxMSFJSQkZOQWg2RG9xeWh0N09hN1h6OXZPVWsyUlRuTHJiSEpiakR3ZXpMV3NEbmZxUnZzbjdnQ1dob2RaUmhsbV9FRkRCeEpYbWdqTXdaQ0ZQbEprdzRfOUxHSlVUSTJn?oc=5",
-      "publishedAt": "2025-10-24T04:03:52.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "\"CKD 철분 치료 관점 변화, 보수적→예방·적극적 관리로\" - 메디칼타임즈",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVjl1cG84VUpxTDBubHEwRWNzM2x6LWZEc19EbG41dzVYWEpEUDBVOVlvUDVCX3dSb2lGOUxqZFVpYWFTNzFDZFhlUWtZc2c0XzVPMGtDY2QxbHhIM1Rwa2paTWl0OE1xM3F0bTZ5YTlIYms?oc=5",
-      "publishedAt": "2025-10-24T03:57:19.000Z"
-    },
-    {
       "group": "overseas",
       "source": "The Guardian World",
       "title": "Trump says all Canada trade talks ‘terminated’ over ad criticising tariffs",
       "link": "https://www.theguardian.com/world/2025/oct/24/trump-says-all-canada-trade-talks-terminated-over-ad-criticising-tariffs",
       "publishedAt": "2025-10-24T03:34:11.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "美월가 평균 연봉 7억2500만원…\"상여금, 올해 사상 최대 전망\" - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxNE1SdmdwTE1CbnZqYmpIRTVaSE8yWEw0aTVmYm45aGZlNXRWYXkyaUhWc2oyMnB0LUhDUVRVRHV0cDJmVHd6dzNNQVR0NGliZjJVRjRrVktGMjlJUmQ5b2hPc0NtN1JpOGJjdjNXWWNTSDg?oc=5",
+      "publishedAt": "2025-10-24T03:15:29.000Z"
     },
     {
       "group": "overseas",
@@ -332,6 +346,13 @@
     },
     {
       "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "게임·영상 모두 완벽 지원… ipTIME, 8K HDMI 변환 어댑터 선보여 - 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ejNhRDNOeUthUjhzcmRoak0zWTRxdkhzTTE2S1V0ZE50Ui1WLTNFWjZ6WUxPVW1oTHlERkNUeGxnbUVSc1Z3LVM1Ykd6SEZ3NlhGMlpzcDFmLUYySGdmWDV6MThFM193eVdUNQ?oc=5",
+      "publishedAt": "2025-10-24T02:14:50.000Z"
+    },
+    {
+      "group": "domestic",
       "source": "Google News KR Tech",
       "title": "리플 공동창업자, XRP 매도 타이밍의 비밀…분석가 \"패턴 있다\" - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PejFmajFpME9FbGxReUlWbDFhYWFyWjhqQU5odmJyYlpSYWVYNldBX0VQZkx1TGFaNmI0N1hDRTVTUmNtRlFNQTlmQTFqa1FqdlVxSllLSWNLVDdCZ2t1Q01iX3IteXFPY3F1VjNmX0dBTTA?oc=5",
@@ -354,9 +375,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "김영웅은 펄펄 나는데 ... '03 듀오' 이재현 PO 최근 3경기 타율 '0.000' 8삼진, 타격감 되찾아 유종의 미 거둘까? - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcHpwaXFoYkVBY3BUNWhOaDNTREZ0MFlpamZJdzZxb2E4T0VSb2tnNlpHc29nZnkxV0hHLUxWRzRRZ2hWeDRfQk1CamFPenM?oc=5",
-      "publishedAt": "2025-10-24T01:59:00.000Z"
+      "title": "장동혁, ‘갭투자’ 이상경 “경질해야” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWlBbnBBeW5heDFaVWxZYmxsSko0cjN1UmxJZ3lYcy12dG1YdDlSa29QSDhKajIyb2VpUGxReUJRcy1ZNlVHaVlUT21GU3RSSWZ4V3dfdUVuMXlObXlhLXFPNUxKMExDVHBiUzNldGYtaHlqaHl4aHg5dy0yb09CU1d2bFpNTWJPY1QxeDB1S1rSAaQBQVVfeXFMT3BrUXNoVUJoQk5hcHZ4cE9Fd3hnbWtBckdkQk5aR2JSZm5peF9WOUQzcW5lcUdpS29lTW9SaU0zN2wyQ1NESE1YRWVpSEhKX1BHejdPX3VIcWk1VV84S3pFcHZYMXdKTjlqUk5QMW5FQ012QnBZUF82MDRMYURrUWdZV043UXJUNG5GQkhZRzgzN0xfcFp1eEhpZjEzcXVlZE5TWXg?oc=5",
+      "publishedAt": "2025-10-24T01:37:23.000Z"
     },
     {
       "group": "overseas",
@@ -401,13 +422,6 @@
       "publishedAt": "2025-10-24T00:46:00.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "“임차인 있으면 집 못 팔아요”…토허구역 확대에 전세 매물 잠겨 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdUR0d0I0MnhodV9aWEl5VGw5R0tIT2ZKdTFORWpjR2FfQWZMUXhxemxCLWtWckg2RURIQkNRaUVfcjhyVXZmcTRLeGdVcjFDdEhCSWVFTzg?oc=5",
-      "publishedAt": "2025-10-24T00:25:04.000Z"
-    },
-    {
       "group": "overseas",
       "source": "Google News World (KR)",
       "title": "사다리차 타고 유유히 내려와 폴짝… 루브르 도둑들 영상 포착 - 조선일보",
@@ -417,16 +431,16 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "닌텐도 '커비 에어 라이더' 대규모 업데이트 발표…신규 모드·스토리 추가 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LVBDbWV3RzJHUUhDeW9JOWFQdWVQRERPMHhyelg0Y2V6MzBmdEw4ZlV0M01uZzlMcks3NVpyaUU4RnpQdnFMb2lUR2pGeVJPU2pObkdfam9Lb0dYWW84dzVGbkVzdW8xTGladE8yNzJnNDg?oc=5",
-      "publishedAt": "2025-10-24T00:04:55.000Z"
+      "title": "‘우아쏠’ 유희관♥13기 옥순 최종커플 - bntnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XSG9YSE03SHFmRWZrVWJic0FHZ1JqNVlaVTMwWV9kU1d2dVhCNlRYQy1xMHZ3YXhDNHpNUFo3YjJNdFM1TWtzOFp6ak81cWhiUTJLWk9uOThnRWZaVTRhWjdROVQ?oc=5",
+      "publishedAt": "2025-10-24T00:09:42.000Z"
     },
     {
       "group": "domestic",
-      "source": "Google News KR Tech",
-      "title": "트럼프, ‘코인 황제’ CZ 전격 사면…“바이든의 암호화폐 전쟁 끝났다” - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56STNxX2tyanV6T2RiSENKX3dhOUZaNDNPTGh5NmtsakI2ZVFRNDh1TTQzWWg4T3VoVEFYb3BQOHhVVW9wXzZRYmpRTWNYNTR4QWc?oc=5",
-      "publishedAt": "2025-10-23T23:59:24.000Z"
+      "source": "Google News KR Top",
+      "title": "닌텐도 '커비 에어 라이더' 대규모 업데이트 발표…신규 모드·스토리 추가 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LVBDbWV3RzJHUUhDeW9JOWFQdWVQRERPMHhyelg0Y2V6MzBmdEw4ZlV0M01uZzlMcks3NVpyaUU4RnpQdnFMb2lUR2pGeVJPU2pObkdfam9Lb0dYWW84dzVGbkVzdW8xTGladE8yNzJnNDg?oc=5",
+      "publishedAt": "2025-10-24T00:04:55.000Z"
     },
     {
       "group": "domestic",
@@ -469,13 +483,6 @@
       "title": "블랙핑크 지수, 앉으나 서나 다 예쁘네...프릴→가죽 스커트로 미모 업그레이드 - v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WVkZZTlV5SDkxekY0bm1Gc0o2NWtKb1RjSjN3em1IdXJRdjVEWUE2ajRaRll3Smh3d0NDaUQzMlktOWJvMW1VbmZYM0p3V0E?oc=5",
       "publishedAt": "2025-10-23T22:01:00.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "Google News World (KR)",
-      "title": "\"아이 뺨 5분간 때려서 촬영\"…황당한 환불조건 요구한 판매자 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUktFdGNBV2NaX184a0wyaVkwVmNMdk5BWHJFUEtuWTlWcUhPd08yd1VNbl9WMVR6MGU1UXF4YjdFeHU0VkxEeWlsYUR2Qnp6UkNHMWE2cDJmQdIBVEFVX3lxTE4zMGhYVlVXR2tMeXdWcVZSbUZVZTl0SlhFU24xZnRWOFlJdWJIaXRhSE5WT2pIWG5vQkpmN2FTa2tnU3VycFQ2NEdSM09tcUxGTWZsXw?oc=5",
-      "publishedAt": "2025-10-23T22:00:33.000Z"
     },
     {
       "group": "domestic",
@@ -571,13 +578,6 @@
     {
       "group": "overseas",
       "source": "The Guardian World",
-      "title": "Palestinian women giving birth in rubble on roads, says senior UN official, as he compares Gaza to dystopian film – as it happened",
-      "link": "https://www.theguardian.com/world/live/2025/oct/23/israel-west-bank-gaza-rubio-middle-east-latest-news-updates",
-      "publishedAt": "2025-10-23T13:45:42.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "The Guardian World",
       "title": "Revealed: police across US spread false rumors about Venezuelan gang threats",
       "link": "https://www.theguardian.com/us-news/2025/oct/23/venezuela-tren-de-aragua-gang-police",
       "publishedAt": "2025-10-23T11:00:40.000Z"
@@ -625,13 +625,6 @@
       "publishedAt": "2025-10-23T08:18:44.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "10·15 부동산 대책 전후 매수세 몰려…서울 아파트값 역대급 상승 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ZkRYV05PSThQS3VXRXdJckZuZXFlU0hoRkRNRDVxVFdsV3hWMl9WRUlwZU81NmV0VWEzQUpiUmJib0hZNXVIUlR3ZTctMUhMQ0Q3MDcwWGtxUEp5eGlpZm5mNTRoUHhV?oc=5",
-      "publishedAt": "2025-10-23T07:58:00.000Z"
-    },
-    {
       "group": "overseas",
       "source": "Google News World (KR)",
       "title": "뇌 수술 받으며 클라리넷 연주한 환자… “수술 효과 실시간 확인” - 조선일보",
@@ -646,18 +639,18 @@
       "publishedAt": "2025-10-23T07:05:00.000Z"
     },
     {
-      "group": "overseas",
-      "source": "Google News World (KR)",
-      "title": "백악관 부수는 트럼프…2억→2.5억→3억달러 불어나는 새 연회장 건설비 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZDlMUk43LTNxMGNNTFJDSWVHbTdXbFNrcmdkWWdiYl9vNmZNRnRXT1ZmVndPQlFaRHhjaVhGd3E2NzJZbmpGVzhjbEpDQ2QxNmxLaEJZNFNJNkplclVYOGhNTnF2bHhUZXVDTl83QQ?oc=5",
-      "publishedAt": "2025-10-23T06:59:00.000Z"
-    },
-    {
       "group": "domestic",
       "source": "Google News KR Tech",
       "title": "730억원 들인 스마트공장 1300개 문닫아 - 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56V2RwU1NBNmlBTFdsZFYxXzNWM1BTZy1JY1l3MzdMbExWM1d5WlNSaVpUeW5SVVdPd2ljczlZVU1FcWVkZ08wMjVHdElVQWJwVElBTQ?oc=5",
       "publishedAt": "2025-10-23T06:10:18.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Tech",
+      "title": "심텍, 엔비디아 '소캠2' 기판 맡는다…메모리 3사 '퀄' 통과 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzY21aSEluTUpzRWZubjJjNGN4M2JMZjMyOTlNOTR3azh0NDFRbWtmLUtleWNERld1amx6M1p0SF9rcjVLQ244bkVOZVBTdw?oc=5",
+      "publishedAt": "2025-10-23T05:39:11.000Z"
     },
     {
       "group": "domestic",
@@ -704,9 +697,23 @@
     {
       "group": "overseas",
       "source": "Google News World (KR)",
+      "title": "\"아이 뺨 소리 나게 때려라\"…중국 판매자가 내건 황당 환불 조건 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UTmNqVV91UTdZeGY5RFVtdVNxZXF4X2QxQjRDdllEVnozTE96dU9IWEgybGlfZXlIRHJEUDVkVm5vYU8wckhRcmN0d3BDcE05SGRMMWI5M2VtaWNqMEgzcmdiVHozMms?oc=5",
+      "publishedAt": "2025-10-23T02:16:53.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
       "title": "딤섬·소시지서 ‘인공 치아’ 나와…中 식품 위생 논란 - 동아일보",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UM0ZTOEhodDJvSFBaZmVWamkyZm9vcUx6TjVwdXRDck45b045V2wzS3hfRjZMUFZRVktkOThKbTByX3ZmUTAyTjRCSFluRDNVWjlILVlOVzd6MWtXNTQwZlBBOUY2RUMwQU5TZzhKYUpCeWPSAWZBVV95cUxPLUt4d0ttSkxDQWVjZFdoRmtLbERkWE1scnI1TTMzOW1MV1BUSDJ2a1pub0ZpamhjUGhZRzRYTTc5SmxZN29XaEN3NWJKdnZraERlUUxjNjhmOU5PUjFROTZfQlZ6NXc?oc=5",
       "publishedAt": "2025-10-23T01:46:12.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "연회장 지으려고 백악관 부수는 트럼프에 비판 쏟아져 - 조선비즈 - Chosun Biz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0Y0TDktdjFqZDRJb3d6cGVzTXRFVXlGNmJVbEpiQkNTY2liMzJnYUQ4b013X2FCdHZUcmZRRWF2ZEpOSEx2WEJzaHpGRFpaYmRHUXdDc2VHQTVWWmhrdGRrb0xBbWs3MWpHT2NzekpLampvSTAxd1B5VVFSOEE0dHVVOXlmeHU3QkhGM0trX0stM1V0TFhfSFE4Nk16QdIBsgFBVV95cUxQYXpfU0cyWXRKLXhPaTdXVER1QXdURjYyT2NkWnhsaGkzMkQzMlRvWmJCMFJGLWlFVW5fWXpWNlJOSFRYeE9zQWs1TFh3R2xMNnFpakRSWVVoWHBWUXBJbTRRaG5RbHdGVUtIOW5Nd0FtbDV0N0o0dzBHcHpkZFlQS1JTbFpVTVFBcndDX3UyVnItNlRpeGVLQUFka1lleFVvUjlacmpOVWhxejBUaHcwSGR3?oc=5",
+      "publishedAt": "2025-10-23T01:43:00.000Z"
     },
     {
       "group": "domestic",
@@ -770,13 +777,6 @@
       "title": "中 희토류 통제에 글로벌 車생산 중단 위기 “두달 막히면 전체 붕괴” - 동아일보",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUUN4YlpXejZQYnhhbEV6X2gxVGVyMENWVm9HYWZzb2dnODk5bHpMemVVdVFkb2k1QmpBMXo3NkNuNkVPLThNVEp2azN3WTRrWFJBRm5DM3ZzZy15WE16TkdFZGNaeDlhZmpGYWJtandBNFBpV0HSAWZBVV95cUxQVGRMMVlCOXdKWWd0bVRCRjVzX19hTHRQWC13NDhMYURYdTRzVGF1Zk9hc0p1Wko4bmR1dHhfWmtqTjg5Y2Nfd3dzT3dfa3lFMGQzZUE0VTdtd2NtVE5jSWhGeVJZVEE?oc=5",
       "publishedAt": "2025-10-22T18:00:00.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "Google News World (KR)",
-      "title": "‘얼음 나라’ 아이슬란드서 모기 첫 발견 - segye.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56R2ZsTklYVUpvNkJJOE9NdGFFNUdQbUhIT2ZiOXc3V0pPOS0tM0pYR2ZhSTlRaFBVVVNGX2FXcUZ1Z1RHcVZzbXdKZVdZWVJJcGd6QkJxcDnSAVRBVV95cUxNRHJmbmxkaHpabGFmTGI0dktKamF0NlZtTUtLQlBPZjV6OFQ4TC1aTkdFLWdlaEV0ZVFER1lvMFotcjdsZWgwTFFJRW5qQWJvUXN5ZWI?oc=5",
-      "publishedAt": "2025-10-22T12:15:00.000Z"
     },
     {
       "group": "overseas",
