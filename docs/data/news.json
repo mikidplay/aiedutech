@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-25T19:28:26.182Z",
+  "generatedAt": "2025-10-25T19:40:16.250Z",
   "items": [
     {
       "group": "overseas",
@@ -46,9 +46,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "김장훈 “광고 50개→몇천억 벌어..200억 기부? 바보 같아”(전지적참견시점)[핫피플] - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzI4LWMteUM1cllaaDdMVmVEQk9CWTVZcUNTdzJNQkNQS3JmalQyNnhQdkR0ckVNd19XNTY4WVp0b25GV0FmNjdXYTZnaUktaDFydmlZNmNwZ3hheVp5WVdSemJ3Um1xRURXZUd5bU1GRHZKRFE0aTVJUURMc3gtbXlqZUlkQU52V3d5ck5vTdIBowFBVV95cUxPRlpBODZNTFNBUl9aYTJ6R2xBQjRwNkd3YjQ2ZEw4RHpWNUJocDhlMXFhcEQ4LXY5bjlGdTBsX0cybF82cndYSmI2TG1OVEJxN0VGY0xqak8ySm1ISmRIYUU0eFpqMEs5SU5yS2kzVEUwRmJFYzYyQ1VlejRKcWlfN2xfbTRNakxqTEptNjBVOTl5OEUycjJTa2JHdTdudFFNc3Jn?oc=5",
-      "publishedAt": "2025-10-25T14:46:00.000Z"
+      "title": "'아찔' 머리 걷어차인 03년생 GK, 경기 중 구급차 후송 \"의식은 있었지만…균형을 잡질 못했다\" - 네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLT0VsQ1d2ZGF6eEhycGhVSFJLNUlvajIyZWROWXNBR0FlMzh1M1JmU2FfVmtvMGtHMUhxQ3NCMElvUWE1OWlwWUFueFh5RlRudFYyeWE4QmpVQjE0?oc=5",
+      "publishedAt": "2025-10-25T15:21:00.000Z"
     },
     {
       "group": "domestic",
@@ -93,8 +93,8 @@
       "publishedAt": "2025-10-25T12:59:00.000Z"
     },
     {
-      "group": "overseas",
-      "source": "Google News World (KR)",
+      "group": "domestic",
+      "source": "Google News KR Top",
       "title": "“못 알아듣겠다” 트럼프, 또 비영어권 출신 기자 공개적으로 조롱 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11SjFVd0FLMFJ6X3pjSFZLTXAxMHRKMTZNenBic3pFOGNUekxvampMaW82bzBScExYS0FZQzBUeFZjc1QwbmNaZ2FuSVJJWm94VktINFBuMThnMHhkQ0c1S2pXSC1nV1VqWExHTmdBUQ?oc=5",
       "publishedAt": "2025-10-25T12:57:00.000Z"
@@ -109,23 +109,16 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "11경기 만에 감격승에도, '큰 부상' 당한 상대 선수 먼저…제주 김정수 감독대행 \"황재윤 괜찮길 바라, 선수들이 큰 선물 줬다\" [MK현장] - 네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lQmhNZGN2dFF1NEx0OHNoMnJxLXlRMUw2QnpYeGM5YWx3VGx2eTh3MmtwcGo2Nk9nT2M4TGxJOTRqeFdFdnpvdVFQLThwWnotbzhqYVl2SkdreHpI?oc=5",
-      "publishedAt": "2025-10-25T12:31:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "경주 지하수조서 2명 사망·2명 중태, 노동당국 조사 착수 - 노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSlRhT3NPcDRCdnpOOHhsMTZJVjBvQ1BSNENuUVRjTFpzem9HelNoa1pXVEFsSmpJWHI5ZE5wTEZkWlFDNmFWWTVBTEJ3Z2RldUE?oc=5",
-      "publishedAt": "2025-10-25T12:25:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
       "title": "루브르 박물관, 중앙은행 지하수장고로 보석 일부 옮겨 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKVDhWR3lQSlpFNTdrc1FZZ1NsOWlDbGl3MlY4RTIybEFnWlZEQjNPWGxPTW1RWFRtal9TRzJVNC1va2FOMzhyc21EMkVka3dVekJ5NTFiSWU1Y2PSAWBBVV95cUxPQU91QjFkTlgwcG9XYUxNdFBuZS1DRlJUQktjcTVhcWFRMWt4cmJoYnU5Y1FZX2F3azYwWEYyVUhhSm5OQVpTbG9rdkl0emlZdDJ6emRrRXFDLW9TRTR0aUo?oc=5",
       "publishedAt": "2025-10-25T12:12:10.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "‘사생활 폭로 피해’ 이이경, ‘놀뭐’ 無편집…유재석 “가슴 펴라” - 스포츠경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aeHh1TU5FS0M4NVo5UkdxTXhQNDIzLUJVMkNjU2pGTm91UkxzUnJhZVRlLW1vRklaNjRObWFmNkdhWHl2cWtUdUhQYUhBc1RDanRqcUVPbzhYbWRLcEHSAWNBVV95cUxONXJ5OWFNbTJXeTYxc2JtS0k1OXdRcVlfcXRZR1FUM3MtX2dHNkZ1NW5fSTVFWkMtTUJ0SlZXMDN1NkRDQXg1bFdVVzBXV0ZfQ2VBeHI4OXkzU0pmeUVtZG5TaHM?oc=5",
+      "publishedAt": "2025-10-25T11:28:00.000Z"
     },
     {
       "group": "overseas",
@@ -147,6 +140,20 @@
       "title": "At least four killed in Russian strikes overnight on Ukraine",
       "link": "https://www.theguardian.com/world/2025/oct/25/russian-overnight-strikes-ukraine-zelenskyy-sanctions-oil",
       "publishedAt": "2025-10-25T11:17:36.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "\"준비는 끝났다\" 들뜬 경주시민, 북적이는 경주 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11cW5SWjlrclk5eEgxdkk1cE8tLXhWc3NaWjlNaERsbUtzWEtXenpXZS1DbjYwclFFVk5Xc1VveDJGYS1GRXlUY0tpVUE4enFtTnFiNXM1ZEVTVFlqbGJwS1N6NVlNckt4RmZlUnUzbXBpbl80WWk3YdIBeEFVX3lxTE5Dd2UyMHZ1M0ZCOWJJd0xFZkp0WC1QUVJuTXZZRFRpWGVCQU9KdmZQZTltSENxOHZRY3FlV0ZBLWs3RWVMVFN2V1dEWjBkal91UUtPZGpQLTcxXzRCMlZRZHg3a2hrbXl5MkJESXhQNjZ2ZkYtNGNhag?oc=5",
+      "publishedAt": "2025-10-25T11:11:56.000Z"
+    },
+    {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "김광규, 유재석에 소개팅 애원 \"이상형은 직모\" ('놀면 뭐하니') - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSTkVUMEt6Z0lXMEgwMUZzM2NZM0UtM3N4WlhtTXh1engwWklOZEt2bW1qSDF3SkNHYlR3SzIzVWtWRjdCOWFlaldyN3dod2plTEtz?oc=5",
+      "publishedAt": "2025-10-25T11:10:00.000Z"
     },
     {
       "group": "domestic",
@@ -182,13 +189,6 @@
       "title": "한국과 협상 타결 원하는 美 “적절한 조건 빨리 수용한다면” - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkZZSGtadTFYbjFCWXE4SVJSQmVGUDAzYXpqQmV0M1FSS3FWMGFBYXM0akNNTnpoV0NzVTNHSVRMa21IdnMzYUpYWlpncFEyM2NqSHBvelRNb2U0VTdjWHZIQW1hTzE1SF84TmtXSnBpVTI3dlMzeVRYN2ZvUnYyX3lvWknSAZgBQVVfeXFMUC1uTktHa2ZDQ0FxMnFKdFQ5SkFjM193cUJMMnlFTUJUSE5Qc29GRHlkVzZjVmE1T0ZuUGVWTnR5Z2lqRm1velRFalJQbFlhemhiWXpQZ29PMEtmSE5pT3lEOUtSU2l6RDB1Z3g2aGlkM3ktNURTcGlKbnhIRDVzMy1jdHBfMWpvcnI2T29ZX2txSjh6RDcwQ1I?oc=5",
       "publishedAt": "2025-10-25T10:30:00.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
-      "title": "트럼프·김정은 회담 성사된다면... 전문가 “李대통령 동석은 불분명” - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMElRUWk0em85ZmJmejNMelk1ZVVDbWl1Z2lnRDhJVHRUZzlzQmM0d1c2bW5YUjFCWU9veGhXZ0dkU1B4alRyc3Q1ZkFMcmlHenVlYXBNZFU3YS1qd2tnVVA2OFJRdlNCNE4yU0RodVpmYlZ1NmpFZTBPYUhLcjJYazZnYlbSAZgBQVVfeXFMTlFSMVdDY3hHelFYa2NVQkRtM1BBREFDNWhKTHhoeHNWQXQ5TFhzMk5KNnJBUnpOV2w3M25UQmFFVlVxTWRDbGd6cHJscnRkOGgwUmdWT2V3d0JfVDJpRi0tM1EyRmVxR0FTcG9QSGVPYU5WRXV0bjVkaFpnbjAzQlM1cXVIWHgwbUVzQWl2ZzJZRTZYTk8zcWY?oc=5",
-      "publishedAt": "2025-10-25T10:19:10.000Z"
     },
     {
       "group": "overseas",
@@ -261,8 +261,8 @@
       "publishedAt": "2025-10-25T07:00:00.000Z"
     },
     {
-      "group": "domestic",
-      "source": "Google News KR Top",
+      "group": "overseas",
+      "source": "Google News World (KR)",
       "title": "백악관에 트럼프 연회장? “국가 건물을 사유화” 비판 확산 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3dObzZvSU01UGFxMG9BbV9XbV9SOHc5OXZQbXJOWndmbHpQZ2xRRmQ3U3VaZ19nX3ZMRkVmQml6andVYVJ3aWpXc24zaFZYeXBKOU9rYUNPR25kTEdBNFR0YWhCbXduRENJZXI2WTJLMlJkMFQzN0VLd3NTT0ZjX2xYLURVSFJucVlYLVg5X2ExN0R6QWo3SUR5dFdJQdIBsgFBVV95cUxPdTZKSU9taWd2aXVDT29xNThPaFA5V2tEVVJlYnpZZUhVbE15b25rT2w4eTNPWkd5N2x3TFJ5RF9wX1Y2cGFOWURuRUtWSnhvRGk5TUVFaXo1c044V3JNV1FPOVM2V0M2bGlYQk1uemlDc18wSGxmcDFQMjFfckQtZjk2dGNoakhPNVF1VnV1WGNvQWt3eXJhSmN6M2gtNTF0TmR0WlF2V1VselZTSDVYcXNB?oc=5",
       "publishedAt": "2025-10-25T06:55:07.000Z"
@@ -375,9 +375,9 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "한화이글스, 19년 만에 한국시리즈 진출 - 충청뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42MkRVaDFtV0s5RW1RcFFnZ1VnMUJ4WUE1b1dkTUJ1MWxrNll2YVB1SG1OQlE0QThVQXJHcTNleWh5LTZKOEtWaGlUVjlwd0twLU45QWE1VGd1VU8wM0s0ckNlanhwbmJuam9J?oc=5",
-      "publishedAt": "2025-10-25T01:57:00.000Z"
+      "title": "李대통령, CNN 인터뷰서 K푸드 홍보... “사과·귤·김밥 드셔보시라” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmdEUGxtTGJVZGUydDJZNzlFcThSdWQzd01zMU9nc1l2c0JpSGkzSjROczV6bmxOU0xuUEk3ekdFMXozaEFaVXRTaUNqdjFnUEU1UU9seXZ5MkN3bWpNbVZUTkR2ZHlmaDRRM1ZuTzVLUnNsbzBZTVp1SmpwM1RRTHZtN2lRQ1J10gGcAUFVX3lxTFA3dS1wQmdzMkFyUHE3SWl2dkk2MzI2Q2VtRFBZRllxRWp6cHk4OUJISENFRkViRlIxdndXYjFTVXVYbWh1d3M1SUN0RW5hcHJ4MDNXanRLV0FqRl9fZVVvYWlScEd0TUc2Vm9uczJxd09saGZBUTk4eGRUY3JWOWhkLTUzd19CZUVEX0dKU2Fkbnc2QXlvZ0d6ck4weg?oc=5",
+      "publishedAt": "2025-10-25T01:21:03.000Z"
     },
     {
       "group": "domestic",
@@ -494,13 +494,6 @@
     {
       "group": "domestic",
       "source": "Google News KR Top",
-      "title": "김광규, 유재석에 소개팅 애원 “이상형은 직모” (‘놀면 뭐하니’) - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aSS1PTmJoM0VqU2JITjE5THZybWdLVGZRVHNuU25KREpMUDFvd3RuSFlCSERiX2tUYkdjZmRabWlyMDM3VE9RaXI4Z2ZncFlZd19CRlRZc1RlRE9GX0swNV9ZSy1mQQ?oc=5",
-      "publishedAt": "2025-10-24T18:52:26.000Z"
-    },
-    {
-      "group": "domestic",
-      "source": "Google News KR Top",
       "title": "사람 중심의 AI, 마이크로소프트 코파일럿 업데이트 - 올포칩",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EX0RwemtkRjRZXzBuZFNRdUN1eXZpQU1kdFdEa21Ock92Y2ZvaVk4V202emtqVTUyZEdvTWhXWEVaTGxBekZiVWV6R0pzblFaRFp5SVlBUW40Q2s3a1pWTktDenpHdw?oc=5",
       "publishedAt": "2025-10-24T17:07:11.000Z"
@@ -576,6 +569,13 @@
       "publishedAt": "2025-10-24T11:57:03.000Z"
     },
     {
+      "group": "domestic",
+      "source": "Google News KR Top",
+      "title": "LAFC 홈구장서 K-팝 울린다…하이브, 손흥민 소속팀과 파트너십 체결 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0teWhEbDNGUU9qMUdmZzZzSXlJMDdaSVlmdUxEOVhldFJlaEdXZTVVekVKWXFxMDdiOXl0WE56MENxeTg3SU1wTlZXNGhldkpYbFVwUzFn?oc=5",
+      "publishedAt": "2025-10-24T09:36:43.000Z"
+    },
+    {
       "group": "overseas",
       "source": "The Guardian World",
       "title": "West Bank resistance dies amid fears of becoming Israel’s ‘next Gaza’",
@@ -641,13 +641,6 @@
     {
       "group": "overseas",
       "source": "Google News World (KR)",
-      "title": "“내 머리카락 사라져” 트럼프 불평... 타임지, 10일 만에 표지·작가 바꿔 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1ZkX2RLRFNQV0pTZDcwRkUtbGZPck5McG5mYXptcHRyUjNkbUZ5TzVqWEd4ZGd2RGpYaEVaQ3BtNkZicFNKUERuYnV6RDh2bENMNElpWkFwSVIydTVreEoxVFIySkZGajhGZkZDN25LaGRfUHMyRExBODZqVHJ2alN1NTktUDRpb0tVWHdEcEVhWFZiemFhbW5UOHZIUdIBsgFBVV95cUxNVGY1SmRHcVcyWnRGYS1iSXBHSHBmelNIbk1fa01iaTBZLTJGWGlBYTY1aVBfdFlzc3NOWndGWkZVWmdMbkRCZWkwcFhEVEdfLS1FVm9fMENVdHpNVUdBRzM4MXJtaUhPbVA0WnRpLU5VdjQ3bHJ4MVdPMW96OVVzcWM4V0VIbUREb2hrc29Ia0pYeDdBQ2lBeHRoSE5FbXktd0c2a2YwY200WmNqQlIwdTRn?oc=5",
-      "publishedAt": "2025-10-24T06:02:10.000Z"
-    },
-    {
-      "group": "overseas",
-      "source": "Google News World (KR)",
       "title": "당직 근무중 2번 성관계 43세 부사관·24세 女병사…자위대 발칵 - 문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oblFVOXJYUjJTczFtQnJxRnJodEkzZEZUR3JaMnJNTjB0b0djVGpKZjBhdE9DNzhGNWNJOWRVQUQ4aXdEUWRqZ0hjc2g3aDVR?oc=5",
       "publishedAt": "2025-10-24T05:52:23.000Z"
@@ -679,6 +672,13 @@
       "title": "트럼프 '러 원유 봉쇄 카드' 통할까…\"中 우회 수입 지속 가능성\" - 조세일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBES3p2ZlJLQlhrTk9UUXg3RUprd1phQXdZYzFDNGZyRzA4SzhOaGVSYThPaGFOSkJOaS1UT3k1cm40VDJ6LXl5VjBYbHlySnc5V2syYWJpRHg1UUItSVl4bjFCSzF6TGhIeDFtdlVGZw?oc=5",
       "publishedAt": "2025-10-24T03:05:10.000Z"
+    },
+    {
+      "group": "overseas",
+      "source": "Google News World (KR)",
+      "title": "\"지금까지중 최악\" 트럼프 생떼에…타임, 표지사진 교체 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOUVHVi10Z0trWDF3b1RqTm10ME5VZDd2Y3V2OUIydm1faEpLOG5tTnZRTVNfWWExR0JQQ25JVUJsdWh1cUJpRFN4S2VzbGdJVkhzSldva3pVdFXSAWBBVV95cUxNNlhpUEFiRlBNaThTd1lJeXpoVDZ6anhFSXphOUtxZmg1OFlJeUdYSWtuc3VDRDhGT1U5bHdxQkZuMlBXX1BURTdPT3Z1UzZtNzVDS3gtbF9OUk9FM052ZU8?oc=5",
+      "publishedAt": "2025-10-24T02:42:43.000Z"
     },
     {
       "group": "domestic",
